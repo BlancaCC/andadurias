@@ -1,0 +1,16 @@
+[
+  {
+    "listing": "/index.html",
+    "items": [
+      "/posts/martial-art/la-repeticion/index.html",
+      "/posts/welcome/index.html"
+    ]
+  },
+  {
+    "listing": "/blog_index.html",
+    "items": [
+      "/posts/martial-art/la-repeticion/index.html",
+      "/posts/welcome/index.html"
+    ]
+  }
+]

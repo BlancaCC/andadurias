@@ -1,6 +1,6 @@
 project:
   type: website
-
+lang: es
 website:
   navbar:
     right:
@@ -12,8 +12,10 @@ website:
       
 format:
   html:
-    theme: cosmo
-    css: styles.css
+    theme: 
+      - cosmo
+      - styles.scss
+    css: styles.scss
     toc: true
 about:
   template: marquee

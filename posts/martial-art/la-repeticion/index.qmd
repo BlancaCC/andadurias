@@ -4,7 +4,9 @@ author: "Blanca cano Camarero"
 date: "2022-10-24"
 categories: [Artes marciales, Repetición ]
 image: "image.jpg"
-
+comments:
+  giscus:
+    repo: BlancaCC/andadurias
 ---
 Hoy he repetido hasta la saciedad la misma palabra, con el mismo gesto 
 en un contexto que empieza a ser el mismo. No recuerdo lo que quería

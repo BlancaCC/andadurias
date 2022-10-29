@@ -1,0 +1,11 @@
+---
+title: "Bienvenido a mi blog"
+author: "Blanca"
+date: "2022-10-21"
+categories: [Noticias]
+---
+
+
+![](thumbnail.jpg)
+
+Las artes marciales son un pensamiento diario y me gustaría recopilar en este blog mis pensamientos.

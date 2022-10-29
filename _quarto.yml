@@ -1,0 +1,19 @@
+project:
+  type: website
+
+website:
+  navbar:
+    right:
+      - text: "Home"
+        file: index.qmd
+      - text: "Blog"
+        file: blog_index.qmd
+      - about.qmd
+      
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+about:
+  template: marquee

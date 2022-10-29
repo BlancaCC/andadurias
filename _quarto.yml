@@ -9,7 +9,7 @@ website:
       - text: "Blog"
         file: blog_index.qmd
       - about.qmd
-  google-analytics: "G-M5WWGQJ974"
+  google-analytics: G-M5WWGQJ974
   cookie-consent: true
   site-url: https://andadurias.netlify.app
       

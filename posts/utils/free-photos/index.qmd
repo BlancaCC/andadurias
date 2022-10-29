@@ -1,0 +1,26 @@
+---
+title: "The method of fast picture selection"
+author: "Blanca"
+date: "2022-10-29"
+categories: [Art]
+image: "art-gallery.jpeg"
+lang: en
+comments:
+  giscus:
+    repo: BlancaCC/andadurias
+---
+
+Although I do not consider myself a brilliant designer (or even a designer),
+I have realised that a good entry picture can make the different. 
+
+
+So if you don not want to spend hour and hour thinking about the 
+*perfect* image is important to have a good method: 
+
+Some pages and utils I use when I need a image. 
+
+Writing this blog I realise that design
+
+### [Burst](https://burst.shopify.com)
+
+- Have a simple se
